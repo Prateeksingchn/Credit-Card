@@ -8,7 +8,7 @@ This project is a simple credit card validator implemented using HTML, CSS, and 
 
 ## Demo
 
-Insert gif or link to demo
+https://prateeksingchn.github.io/Credit-Card/
 
 
 ## Features
